@@ -1,7 +1,6 @@
 package com.example.demo_lab_s2.controller;
 
 import com.example.demo_lab_s2.domain.Song;
-import com.example.demo_lab_s2.exceptions.ResourceNotFoundException;
 import com.example.demo_lab_s2.repository.SongRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
